@@ -149,7 +149,7 @@ def run_experiment():
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
 
     Loss = []
-    for step in range(1000):
+    for step in range(100):
         loss = preference_rlhf_loop(model, reward_model, optimizer, tokenizer, vocab_size=vocab_size, seq_len=seq_len)
         Loss.append(loss)
     

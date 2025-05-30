@@ -1,6 +1,6 @@
 # Online Preference-Based Reward Learning: Optimal Query Timing
 
-This repository provides the implementation and supporting materials for the project "Online Preference-Based Reward Learning in the Presence of Human Irrationalities and Reaction Delay," as detailed in the CMPUT 656 course report by Masoud Jafaripour citeturn0file0.
+This repository provides the implementation and supporting materials for the project "Online Preference-Based Reward Learning in the Presence of Human Irrationalities and Reaction Delay," as detailed in the CMPUT 656 course report by Masoud Jafaripour.
 
 ## Table of Contents
 
